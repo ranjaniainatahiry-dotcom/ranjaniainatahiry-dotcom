@@ -294,7 +294,8 @@ Deno scripts to scrape protected sites, SPAs, and Cloudflare-protected sites. In
 ## 📫 Contact & Collaboration
 
 - **Email:** ranjaniainatahiry [at] gmail.com
-- **GitHub:** [github.com/ranjaniainatahiry-dotcom](https://github.com/ranjaniainatahiry-dotcom 
+- **GitHub:** [github.com/ranjaniainatahiry-dotcom](https://github.com/ranjaniainatahiry-dotcom)
+- **Platforms:** jobbers.io, Mission Madagascar (E-commerce)
 - **Payment:** Mobile Money (Airtel/Orange) via WorldRemit, Sendwave, Remitly, Ria
 
 **100% written communication:** emails, tickets, chat (asynchronous preferred).
@@ -319,4 +320,3 @@ Deno scripts to scrape protected sites, SPAs, and Cloudflare-protected sites. In
 
 *"Automate what can be automated, analyze what remains, visualize to understand."*
 ```
-
