@@ -52,7 +52,7 @@ A BI dashboard connected to TiDB Cloud, deployed on Render.
 
 ## 📫 Contact
 
-- **Email:** ranjanainatahiry [at] gmail.com
+- **Email:** ranjaniainatahiry [at] gmail.com
 - **GitHub:** [github.com/ranjaniainatahiry-dotcom](https://github.com/ranjaniainatahiry-dotcom)
 - **Payment:** Mobile Money (Airtel/Orange) via WorldRemit, Sendwave, Remitly
 
