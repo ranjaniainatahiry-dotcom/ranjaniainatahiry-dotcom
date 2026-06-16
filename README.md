@@ -8,6 +8,13 @@
 [![Rust](https://img.shields.io/badge/Rust-Ultra_Fast-000000)](https://rust-lang.org)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB)](https://python.org)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF)](https://github.com/features/actions)
+[![Demo](https://img.shields.io/badge/🎬_Live_Demo-Pipeline-2563eb)](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Data%20%26%20Automation%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
 
 ---
 
@@ -15,11 +22,62 @@
 
 **Data & Automation Engineer** with **5+ years** of experience designing complete data pipelines from scratch:
 
-> **Scraping → Transformation → Storage → Dashboard**
+> **Scraping → Transformation → Storage → AI Analysis → Dashboard**
 
 I work **100% remotely** with written-first communication (emails, tickets, chat). Specialized in **E-commerce** and **Market Intelligence**, I automate everything that can be automated.
 
 > *"Automate what can be automated, analyze what remains, visualize to understand."*
+
+---
+
+## 🎬 Live Demo – E-commerce Data Pipeline
+
+<div align="center">
+  <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true" target="_blank">
+    <img src="https://img.shields.io/badge/🎬_Démo_Automatique-Cliquez_ici-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Démo automatique"/>
+  </a>
+  <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Version_Standard-Visiter-7c3aed?style=for-the-badge" alt="Version standard"/>
+  </a>
+  <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?embed=true" target="_blank">
+    <img src="https://img.shields.io/badge/📦_Mode_Embed-Intégrer-16a34a?style=for-the-badge" alt="Mode embed"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Démonstration_Interactive_du_Pipeline_Complet-⚠️_Cliquez_pour_lancer_la_démo-0f172a?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=2563eb" alt="Démo interactive"/>
+  </a>
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true">
+        <img src="https://via.placeholder.com/800x450/0f172a/ffffff?text=🎬+Live+Demo+E-commerce+Data+Pipeline" alt="Demo preview" width="800"/>
+        <br/>
+        <strong>▶️ Cliquez pour voir la démo automatique</strong>
+      </a>
+      <br/>
+      <em>Pipeline animé • Dashboard BI • AI Insights • Reporting automatisé</em>
+    </td>
+  </tr>
+</table>
+
+### 🔍 Ce que la démo montre
+
+| Fonctionnalité | Description |
+|---------------|-------------|
+| 🔄 **Pipeline animé** | Visualisation en temps réel des 5 étapes : Scraping → Transformation → Stockage → IA → Dashboard |
+| 📊 **Dashboard BI** | 4 graphiques interactifs (tendances, top produits, prix, avis) |
+| 🤖 **AI Insights** | Recommandations GROQ avec niveau de confiance |
+| 📧 **Reporting** | Aperçu d'email automatisé (Gmail API) |
+| 🌓 **Mode sombre/clair** | Toggle intégré avec persistance |
+| 🎬 **Démo automatique** | Lancement en un clic avec défilement guidé |
 
 ---
 
@@ -86,8 +144,9 @@ I work **100% remotely** with written-first communication (emails, tickets, chat
 
 ---
 
-### 📧 Communication & Payments
-- **BREVO** – Automated emails (9,000/month free)
+### 📧 Communication & Reporting
+- **Gmail API** – Automated email reports (via custom app key)
+- **GitHub Pages** – Public dashboard URL for reporting
 - **WorldRemit / Sendwave / Remitly** – Payments to Mobile Money (Airtel/Orange)
 
 ---
@@ -95,53 +154,95 @@ I work **100% remotely** with written-first communication (emails, tickets, chat
 ## 🚀 My Workflow (2026)
 
 I develop in **Google Colab** for rapid iteration with my secrets (API keys). For GPU-heavy tasks (ML, large datasets), I use **Lightning AI** via its API – provisioning T4/A100 from Colab.
-
 ```
 
-┌─────────────────────────────────────────────────────────────────┐
-│                    GOOGLE COLAB                                │
-│              Development & Testing                             │
-│  (Secrets: GROQ, APIFY, TiDB, Lightning, etc.)                │
-└─────────────────────────┬───────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          GOOGLE COLAB                                       ║
+║                     Development & Testing                                   ║
+║  ⚡ Secrets: GROQ, APIFY, TiDB, Lightning, Gmail, etc.                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 │
-┌────────────────┼────────────────┐
-▼                ▼                ▼
-┌─────────────────┐ ┌─────────────┐ ┌─────────────────┐
-│   TiDB Cloud    │ │ Lightning AI│ │  GitHub Actions │
-│   Persistent    │ │   GPU & ML  │ │    Cron Jobs    │
-│    Storage      │ │  (T4/A100)  │ │   (Daily)       │
-└─────────────────┘ └─────────────┘ └────────┬────────┘
+┌─────────────────┼─────────────────┐
+▼                 ▼                 ▼
+╔══════════════════════════╗ ╔══════════════════════════╗ ╔══════════════════════════╗
+║      TiDB Cloud         ║ ║     Lightning AI         ║ ║    GitHub Actions        ║
+║   📊 Persistent         ║ ║   🚀 GPU & ML           ║ ║   ⏰ Cron Jobs          ║
+║      Storage            ║ ║   (T4/A100/H100)        ║ ║   (Daily)               ║
+╚══════════════════════════╝ ╚══════════════════════════╝ ╚───────────┬────────────╝
 │
 ▼
-┌─────────────────┐
-│     Render      │
-│    Superset     │
-│   Dashboard     │
-└─────────────────┘
+╔══════════════════════════╗
+║        Render           ║
+║   📈 Superset          ║
+║     Dashboard          ║
+╚══════════════════════════╝
 
 ```
 
-**Pipeline Steps:**
+### 🔄 Pipeline Steps
+```
 
-1. **Collection** – Apify / Playwright / TrendsMCP → Scrape products, trends, protected sites
-2. **Transformation** – Polars / DuckDB / Rust → Cleaning, aggregations, intensive computing
-3. **Storage** – TiDB Cloud → Persistent, scalable database
-4. **AI Analysis** – GROQ / Lightning AI → Insights, recommendations, ML
-5. **Visualization** – Apache Superset → Interactive BI dashboards
-6. **Automation** – GitHub Actions / Prefect → 100% autonomous pipelines (daily cron)
-7. **Reporting** – BREVO → Automated email results
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1️⃣ COLLECTION                                                              │
+│    Apify / Playwright / TrendsMCP                                          │
+│    → Scrape products, trends, protected sites                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 2️⃣ TRANSFORMATION                                                          │
+│    Polars / DuckDB / Rust                                                  │
+│    → Cleaning, aggregations, intensive computing                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 3️⃣ STORAGE                                                                 │
+│    TiDB Cloud                                                              │
+│    → Persistent, scalable database                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 4️⃣ AI ANALYSIS                                                             │
+│    GROQ / Lightning AI                                                     │
+│    → Insights, recommendations, ML                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 5️⃣ VISUALIZATION                                                           │
+│    Apache Superset                                                         │
+│    → Interactive BI dashboards                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 6️⃣ AUTOMATION                                                              │
+│    GitHub Actions / Prefect                                                │
+│    → 100% autonomous pipelines (daily cron)                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 7️⃣ REPORTING                                                               │
+│    Gmail API / GitHub Pages                                                │
+│    → Automated email reports OR public dashboard URL                       │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-**Result:** A 100% automated pipeline – zero manual intervention. 🚀
+```
+
+**🎯 Result:** A 100% automated pipeline – zero manual intervention. 🚀
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Rust-Python Data Pipeline
-Complete E-commerce scraping pipeline, ultra-fast processing with Rust (via Maturin), analysis with Polars/DuckDB, interactive HTML dashboard generated with Deno.
+### 🔹 Live Demo – E-commerce Data Pipeline
+Démonstration interactive de mon workflow complet : scraping → transformation → stockage → AI → dashboard.
 
-- **Stack:** Python, Rust, Polars, DuckDB, Deno, TiDB Cloud
-- **GitHub:** [rust-python-data-pipeline](https://github.com/ranjaniainatahiry-dotcom/rust-python-data-pipeline)
+| Mode | Lien | Description |
+|------|------|-------------|
+| 🎬 **Démo automatique** | [Cliquez ici](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true) | Lancement automatique avec défilement guidé |
+| 🔗 **Version standard** | [Cliquez ici](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/) | Page interactive complète |
+| 📦 **Mode embed** | [Cliquez ici](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?embed=true) | Intégrable dans d'autres sites |
+
+- **Tech:** HTML5, CSS3, JavaScript, Chart.js
+- **Features:** Pipeline animé, graphiques BI, AI insights, email automatisé, mode sombre/clair
 
 ---
 
@@ -153,11 +254,19 @@ BI dashboard connected to TiDB Cloud, deployed on Render. Real-time visualizatio
 
 ---
 
+### 🔹 Rust-Python Data Pipeline
+Complete E-commerce scraping pipeline, ultra-fast processing with Rust (via Maturin), analysis with Polars/DuckDB, interactive HTML dashboard generated with Deno.
+
+- **Stack:** Python, Rust, Polars, DuckDB, Deno, TiDB Cloud
+- **GitHub:** [rust-python-data-pipeline](https://github.com/ranjaniainatahiry-dotcom/rust-python-data-pipeline)
+
+---
+
 ### 🔹 E-commerce Market Intelligence
 Complete market analysis pipeline: Amazon scraping (Apify), trends (TrendsMCP), competitive analysis (GROQ), Superset dashboard.
 
 - **Sources:** Amazon, Google Trends, Pinterest Trends, TikTok
-- **Deliverables:** BI dashboards, automated emails, AI recommendations
+- **Deliverables:** BI dashboards, automated email reports, AI recommendations
 
 ---
 
@@ -200,7 +309,11 @@ Deno scripts to scrape protected sites, SPAs, and Cloudflare-protected sites. In
 
 ---
 
-*"Automate what can be automated, analyze what remains, visualize to understand."*
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=120&section=footer" width="100%"/>
+</div>
 
 ---
+
+*"Automate what can be automated, analyze what remains, visualize to understand."*
+```
