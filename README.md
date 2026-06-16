@@ -34,13 +34,13 @@ I work **100% remotely** with written-first communication (emails, tickets, chat
 
 <div align="center">
   <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true" target="_blank">
-    <img src="https://img.shields.io/badge/🎬_Démo_Automatique-Cliquez_ici-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Démo automatique"/>
+    <img src="https://img.shields.io/badge/🎬_Auto_Demo-Click_Here-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Auto Demo"/>
   </a>
   <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Version_Standard-Visiter-7c3aed?style=for-the-badge" alt="Version standard"/>
+    <img src="https://img.shields.io/badge/🔗_Standard_Version-Visit-7c3aed?style=for-the-badge" alt="Standard Version"/>
   </a>
   <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?embed=true" target="_blank">
-    <img src="https://img.shields.io/badge/📦_Mode_Embed-Intégrer-16a34a?style=for-the-badge" alt="Mode embed"/>
+    <img src="https://img.shields.io/badge/📦_Embed_Mode-Integrate-16a34a?style=for-the-badge" alt="Embed Mode"/>
   </a>
 </div>
 
@@ -48,7 +48,7 @@ I work **100% remotely** with written-first communication (emails, tickets, chat
 
 <div align="center">
   <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Démonstration_Interactive_du_Pipeline_Complet-⚠️_Cliquez_pour_lancer_la_démo-0f172a?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=2563eb" alt="Démo interactive"/>
+    <img src="https://img.shields.io/badge/🚀_Interactive_Pipeline_Demo-⚠️_Click_to_Launch-0f172a?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=2563eb" alt="Interactive Demo"/>
   </a>
 </div>
 
@@ -60,24 +60,24 @@ I work **100% remotely** with written-first communication (emails, tickets, chat
       <a href="https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true">
         <img src="https://via.placeholder.com/800x450/0f172a/ffffff?text=🎬+Live+Demo+E-commerce+Data+Pipeline" alt="Demo preview" width="800"/>
         <br/>
-        <strong>▶️ Cliquez pour voir la démo automatique</strong>
+        <strong>▶️ Click to launch the auto demo</strong>
       </a>
       <br/>
-      <em>Pipeline animé • Dashboard BI • AI Insights • Reporting automatisé</em>
+      <em>Animated Pipeline • BI Dashboard • AI Insights • Automated Reporting</em>
     </td>
   </tr>
 </table>
 
-### 🔍 Ce que la démo montre
+### 🔍 What the Demo Shows
 
-| Fonctionnalité | Description |
-|---------------|-------------|
-| 🔄 **Pipeline animé** | Visualisation en temps réel des 5 étapes : Scraping → Transformation → Stockage → IA → Dashboard |
-| 📊 **Dashboard BI** | 4 graphiques interactifs (tendances, top produits, prix, avis) |
-| 🤖 **AI Insights** | Recommandations GROQ avec niveau de confiance |
-| 📧 **Reporting** | Aperçu d'email automatisé (Gmail API) |
-| 🌓 **Mode sombre/clair** | Toggle intégré avec persistance |
-| 🎬 **Démo automatique** | Lancement en un clic avec défilement guidé |
+| Feature | Description |
+|---------|-------------|
+| 🔄 **Animated Pipeline** | Real-time visualization of 5 steps: Scraping → Transformation → Storage → AI → Dashboard |
+| 📊 **BI Dashboard** | 4 interactive charts (trends, top products, prices, ratings) |
+| 🤖 **AI Insights** | GROQ recommendations with confidence levels |
+| 📧 **Reporting** | Automated email preview (Gmail API) |
+| 🌓 **Dark/Light Mode** | Toggle with persistence |
+| 🎬 **Auto Demo** | One-click launch with guided scrolling |
 
 ---
 
@@ -154,6 +154,7 @@ I work **100% remotely** with written-first communication (emails, tickets, chat
 ## 🚀 My Workflow (2026)
 
 I develop in **Google Colab** for rapid iteration with my secrets (API keys). For GPU-heavy tasks (ML, large datasets), I use **Lightning AI** via its API – provisioning T4/A100 from Colab.
+
 ```
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -180,6 +181,7 @@ I develop in **Google Colab** for rapid iteration with my secrets (API keys). Fo
 ```
 
 ### 🔄 Pipeline Steps
+
 ```
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -233,16 +235,16 @@ I develop in **Google Colab** for rapid iteration with my secrets (API keys). Fo
 ## 📂 Featured Projects
 
 ### 🔹 Live Demo – E-commerce Data Pipeline
-Démonstration interactive de mon workflow complet : scraping → transformation → stockage → AI → dashboard.
+Interactive demonstration of my complete workflow: scraping → transformation → storage → AI → dashboard.
 
-| Mode | Lien | Description |
+| Mode | Link | Description |
 |------|------|-------------|
-| 🎬 **Démo automatique** | [Cliquez ici](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true) | Lancement automatique avec défilement guidé |
-| 🔗 **Version standard** | [Cliquez ici](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/) | Page interactive complète |
-| 📦 **Mode embed** | [Cliquez ici](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?embed=true) | Intégrable dans d'autres sites |
+| 🎬 **Auto Demo** | [Click here](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?demo=true) | Automatic launch with guided scrolling |
+| 🔗 **Standard Version** | [Click here](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/) | Full interactive page |
+| 📦 **Embed Mode** | [Click here](https://ranjaniainatahiry-dotcom.github.io/demo-pipeline/?embed=true) | Embeddable in other sites |
 
 - **Tech:** HTML5, CSS3, JavaScript, Chart.js
-- **Features:** Pipeline animé, graphiques BI, AI insights, email automatisé, mode sombre/clair
+- **Features:** Animated pipeline, BI charts, AI insights, automated email, dark/light mode
 
 ---
 
@@ -293,6 +295,7 @@ Deno scripts to scrape protected sites, SPAs, and Cloudflare-protected sites. In
 
 - **Email:** ranjaniainatahiry [at] gmail.com
 - **GitHub:** [github.com/ranjaniainatahiry-dotcom](https://github.com/ranjaniainatahiry-dotcom)
+- **Platforms:** jobbers.io, Mission Madagascar (E-commerce)
 - **Payment:** Mobile Money (Airtel/Orange) via WorldRemit, Sendwave, Remitly, Ria
 
 **100% written communication:** emails, tickets, chat (asynchronous preferred).
@@ -317,3 +320,5 @@ Deno scripts to scrape protected sites, SPAs, and Cloudflare-protected sites. In
 
 *"Automate what can be automated, analyze what remains, visualize to understand."*
 ```
+
+---
