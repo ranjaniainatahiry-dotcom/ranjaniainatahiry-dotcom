@@ -27,8 +27,8 @@ I develop in Google Colab, where I can test, iterate, and access my secrets (API
 | :--- | :--- |
 | **Google Colab** | Development, secrets, APIs, fast iterations |
 | **Lightning AI** | GPU‑accelerated ML, long‑running scraping, 50 GB persistent storage |
-| **TiDB Cloud** | Persistent, scalable data storage (5 GB free) |
-| **Render** | Hosting Superset dashboards (free tier) |
+| **TiDB Cloud** | Persistent, scalable data storage |
+| **Render** | Hosting Superset dashboards |
 | **GitHub** | Code, versioning, automation (Actions) |
 
 ---
