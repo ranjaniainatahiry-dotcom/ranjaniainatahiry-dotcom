@@ -1,4 +1,4 @@
-# Ranjanaina Tahiry – Data & Automation Engineer
+# Ranjaniaina Tahiry – Data & Automation Engineer
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranjaniainatahiry-dotcom/rust-python-data-pipeline)
 [![Lightning AI](https://img.shields.io/badge/⚡Lightning_AI-GPU_ready-792ee5)](https://lightning.ai)
