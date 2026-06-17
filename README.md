@@ -13,6 +13,12 @@
 ---
 
 <div align="center">
+  <img src="gpt-image-2_Create_a_bright_clean_ultra-detailed_3D_isometric_cinematic_illustration_of_a_mo-0.jpg" alt="E-commerce Data Pipeline" width="100%"/>
+  <br/>
+  <em>E-commerce Data Pipeline – From Collection to Dashboard</em>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Data%20%26%20Automation%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
