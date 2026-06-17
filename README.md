@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="gpt-image-2_Create_a_bright_clean_ultra-detailed_3D_isometric_cinematic_illustration_of_a_mo-0.jpg" alt="E-commerce Data Pipeline" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ranjaniainatahiry-dotcom/demo-pipeline/main/gpt-image-2_Create_a_bright_clean_ultra-detailed_3D_isometric_cinematic_illustration_of_a_mo-0.jpg" alt="E-commerce Data Pipeline" width="100%"/>
   <br/>
   <em>E-commerce Data Pipeline – From Collection to Dashboard</em>
 </div>
